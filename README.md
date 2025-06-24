@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! My name is Felipe Lucca!
 
-<!--
-**luccafzc/luccafzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope you're doing well — here's a few things about me if you're interested:
 
-Here are some ideas to get you started:
+💻📚 I'm a Computer Science student!  
+⚽🏆 Sports lover, especially soccer/football!  
+🎸🎶 Guitar player — or at least I try to be one!  
+📊📈 Dreaming of becoming a Data Analyst someday!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Of course, this is just a small part of who I am.  
+If you'd like to know more, feel free to contact me at: **luccafzc@gmail.com**
+
+Maybe we could work together!
+
+See ya! 👋
+
